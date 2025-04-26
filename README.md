@@ -48,7 +48,7 @@ No configuration needed. The resource is ready to use out of the box.
 - `/pc` — Test the progress bar export on the client.
 
 ## Credits
-Developed by @YourName. Inspired by the progress bar from `infinity-oil-delivery`.
+Developed by BzkDev Scripts. Inspired by the progress bar from `infinity-oil-delivery`.
 
 ## Version
 - Standalone NUI progress bar
